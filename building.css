@@ -1,0 +1,76 @@
+.main .building .img
+{
+    position:absolute;
+    top: 560px;
+    left: 380px;
+    opacity: 0.2;
+}
+
+.main .building .img1
+{
+    position:absolute;
+    top: 380px;
+    left: 410px;
+    opacity: 0.2;
+}
+
+.main .building .img2
+{
+    position:absolute;
+    top: 270px;
+    left: 485px;
+    opacity: 0.2;
+}
+
+.main .building .img3
+{
+    position:absolute;
+    top: 250px;
+    left: 600px;
+    opacity: 0.2;
+}
+
+.main .building .img4
+{
+    position:absolute;
+    top: 210px;
+    left: 650px;
+    opacity: 0.2;
+}
+
+.main .building .img5
+{
+    position:absolute;
+    top: 330px;
+    left: 720px;
+    opacity: 0.2;
+}
+
+.main .building .img6
+{
+    position:absolute;
+    top: 200px;
+    left: 815px;
+    opacity: 0.2;
+}
+.main .building .img7
+{
+    position:absolute;
+    top: 85px;
+    left: 710px;
+    opacity: 0.2;
+}
+.main .building .img8
+{
+    position:absolute;
+    top: 75px;
+    left: 840px;
+    opacity: 0.2;
+}
+.main .building .img9
+{
+    position:absolute;
+    top: 10px;
+    left: 750px;
+    opacity: 0.2;
+}
