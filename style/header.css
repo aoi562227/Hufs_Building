@@ -103,7 +103,7 @@ body
     top: 10px;
 }
 
-.main .section1
+.main .section
 {
     position: relative;
     top: 0px;
@@ -111,13 +111,10 @@ body
     width: 1280px;
     height: 760px;
 }
-.main .section1 .img1
+.main .section .img
 {
     width: 1280px;
     height: 770px;
     margin: 0px auto;
 
-}
-.suri {
-    background-image: "img/map.jpeg";
 }
