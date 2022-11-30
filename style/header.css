@@ -28,7 +28,8 @@ body
     top: 30px;
     width: 1080px;
     height: 5vh;
-    margin: 0px auto;
+    margin: 0px;
+    margin-left: auto;
     background-color: white;
 }
 .main
